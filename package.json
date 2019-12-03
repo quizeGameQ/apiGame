@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/quizeGameQ/apiGame/issues"
   },
-  "homepage": "https://github.com/quizeGameQ/apiGame#readme",
-  "dependencies": {
-    "qps-client": "^0.9.32"
-  }
+  "homepage": "https://github.com/quizeGameQ/apiGame#readme"
 }
