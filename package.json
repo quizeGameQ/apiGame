@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/quizeGameQ/apiGame/issues"
   },
-  "homepage": "https://github.com/quizeGameQ/apiGame#readme"
+  "homepage": "https://github.com/quizeGameQ/apiGame#readme",
+  "dependencies": {
+    "qiskit": "^0.9.0"
+  }
 }
