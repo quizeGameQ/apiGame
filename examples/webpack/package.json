@@ -1,0 +1,27 @@
+{
+  "name": "qiskit-webpack-example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "brfs": "^2.0.2",
+    "transform-loader": "^0.2.4",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "@qiskit/sim": "^0.10.0"
+  },
+  "type": "module"
+}

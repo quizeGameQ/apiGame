@@ -1,3 +1,5 @@
+*.html
+*.png
 *.csv
 *.dat
 *.iml
@@ -5,6 +7,7 @@
 *.out
 *.pid
 *.seed
+*.sublime-*
 *.swo
 *.swp
 *.tgz
@@ -15,14 +18,14 @@
 .strong-pm
 coverage
 *.lock
-*.sublime-*
+.vscode
 
-# Node.js.
+# Node.js
 node_modules
 npm-debug.log
 .jshintrc
 .jslintrc
 .editorconfig
-lerna-debug.log
 
-dist/*.js
+# Project stuff
+test
