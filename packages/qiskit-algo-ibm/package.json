@@ -1,6 +1,6 @@
 {
   "name": "@qiskit/algo-ibm",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "IBM Q engine for Qiskit algorithms",
   "author": {
     "name": "IBM RESEARCH",
@@ -37,10 +37,10 @@
     "url": "https://github.com/Qiskit/qiskit-js/issues"
   },
   "dependencies": {
-    "@qiskit/utils": "^0.9.0"
+    "@qiskit/utils": "^0.9.1"
   },
   "devDependencies": {
-    "@qiskit/cloud": "^0.9.0"
+    "@qiskit/cloud": "^0.9.1"
   },
   "engines": {
     "node": ">=10"
