@@ -1,6 +1,0 @@
-{
-  "engines": {
-    "supported": ["js", "anu", "ibm"],
-    "default": "js"
-  }
-}
